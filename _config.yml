@@ -3,18 +3,18 @@
 title: My Blog
 author: Jason Naramore
 email: wjnaramore@gmail.com
-description: > # this means "folded" block
-  A simple blog powered by Jekyll and GitHub Pages.
+# description: > # this means "folded" block
+  # A simple blog powered by Jekyll and GitHub Pages.
 
-theme: minima
+theme: jekyll-theme-cayman
 
 # Optional: social links (minima supports these)
 # github_username: your-username
 # linkedin_username: your-linkedin
 
 # Build settings
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 ---
 
