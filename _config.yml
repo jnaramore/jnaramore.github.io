@@ -1,8 +1,20 @@
 ---
-layout: post
-title:  "My First Blog Post"
-date:   2025-09-30 12:00:00 -0400
-categories: [personal, jekyll]
-tags: [intro, tutorial]
+
+title: My Blog
+author: Jason Naramore
+email: wjnaramore@gmail.com
+description: > # this means "folded" block
+  A simple blog powered by Jekyll and GitHub Pages.
+
+theme: cayman
+
+# Optional: social links (minima supports these)
+# github_username: your-username
+# linkedin_username: your-linkedin
+
+# Build settings
+plugins:
+  - jekyll-feed
+
 ---
 
