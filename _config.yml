@@ -6,15 +6,20 @@ email: wjnaramore@gmail.com
 # description: > # this means "folded" block
   # A simple blog powered by Jekyll and GitHub Pages.
 
+description:  
 theme: minima
 
 # Optional: social links (minima supports these)
-# github_username: your-username
-# linkedin_username: your-linkedin
 
 # Build settings
-# plugins:
-#   - jekyll-feed
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-optional-front-matter
 ---
 
