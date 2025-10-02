@@ -9,17 +9,11 @@ email: wjnaramore@gmail.com
 description:  
 theme: minima
 
+
 # Optional: social links (minima supports these)
 
 # Build settings
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-archives
-  - jekyll-paginate
-  - jekyll-include-cache
-  - jekyll-optional-front-matter
+
 ---
 
